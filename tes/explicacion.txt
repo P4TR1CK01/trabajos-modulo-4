@@ -1,0 +1,7 @@
+300gr => $3000
+500gr =>  $5000
+
+
+te negro => Se recomienda para el desayuno (3 minutos)
+te verde => Se recomienda para el almuerzo (5 minutos)
+infusion de Hiervas => se recomienda al atardecer (6 minutos)
